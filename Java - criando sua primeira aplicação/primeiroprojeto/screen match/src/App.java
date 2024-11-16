@@ -37,5 +37,8 @@ public class App {
                 """;
 
         System.out.println(descricao);
+
+        int classificacao = (int) (media/2);
+        System.out.println(classificacao);
     }
 }
